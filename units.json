@@ -1,0 +1,262 @@
+[
+  {
+    "code": "C62",
+    "description": "Adet"
+  },
+  {
+    "code": "PR",
+    "description": "Çift"
+  },
+  {
+    "code": "DAY",
+    "description": "Gün"
+  },
+  {
+    "code": "WEE",
+    "description": "Hafta"
+  },
+  {
+    "code": "MON",
+    "description": "Ay"
+  },
+  {
+    "code": "ANN",
+    "description": "Yıl"
+  },
+  {
+    "code": "MIN",
+    "description": "Dakika"
+  },
+  {
+    "code": "SEC",
+    "description": "Saniye"
+  },
+  {
+    "code": "HUR",
+    "description": "Saat"
+  },
+  {
+    "code": "CMQ",
+    "description": "cm3(CMQ)"
+  },
+  {
+    "code": "MMQ",
+    "description": "mm3"
+  },
+  {
+    "code": "CMT",
+    "description": "cm"
+  },
+  {
+    "code": "CMK",
+    "description": "cm2"
+  },
+  {
+    "code": "KTM",
+    "description": "km"
+  },
+  {
+    "code": "MLT",
+    "description": "ml"
+  },
+  {
+    "code": "MMT",
+    "description": "mm"
+  },
+  {
+    "code": "B32",
+    "description": "Kg.m2"
+  },
+  {
+    "code": "CCT",
+    "description": "Ton başına taşıma kapasitesi"
+  },
+  {
+    "code": "D30",
+    "description": "Brüt kalori değeri"
+  },
+  {
+    "code": "D40",
+    "description": "1000 litre"
+  },
+  {
+    "code": "GRM",
+    "description": "Gram"
+  },
+  {
+    "code": "GT",
+    "description": "Gros ton"
+  },
+  {
+    "code": "KGM",
+    "description": "Kilogram"
+  },
+  {
+    "code": "KWH",
+    "description": "Kilowatt saat"
+  },
+  {
+    "code": "LPA",
+    "description": "Saf alkol litresi"
+  },
+  {
+    "code": "LTR",
+    "description": "Litre"
+  },
+  {
+    "code": "MTK",
+    "description": "m2"
+  },
+  {
+    "code": "MTQ",
+    "description": "m3"
+  },
+  {
+    "code": "MTR",
+    "description": "Metre"
+  },
+  {
+    "code": "NCL",
+    "description": "Hücre"
+  },
+  {
+    "code": "R9",
+    "description": "1000 m3"
+  },
+  {
+    "code": "SET",
+    "description": "Set"
+  },
+  {
+    "code": "T3",
+    "description": "1000 adet"
+  },
+  {
+    "code": "MGM",
+    "description": "mg"
+  },
+  {
+    "code": "TNE",
+    "description": "Metric Ton"
+  },
+  {
+    "code": "KJO",
+    "description": "kj"
+  },
+  {
+    "code": "CLT",
+    "description": "cl"
+  },
+  {
+    "code": "BX",
+    "description": "Kutu"
+  },
+  {
+    "code": "PA",
+    "description": "Paket(PA)"
+  },
+  {
+    "code": "FTK",
+    "description": "Ayak Kare "
+  },
+  {
+    "code": "DMK",
+    "description": "Desimetre Kare"
+  },
+  {
+    "code": "RO",
+    "description": "Rulo"
+  },
+  {
+    "code": "SA",
+    "description": "Çuval"
+  },
+  {
+    "code": "BJ",
+    "description": "Kova"
+  },
+  {
+    "code": "PK",
+    "description": "Paket(PK)"
+  },
+  {
+    "code": "LK",
+    "description": "BAĞ"
+  },
+  {
+    "code": "DR",
+    "description": "BİDON"
+  },
+  {
+    "code": "CG",
+    "description": "KARTON"
+  },
+  {
+    "code": "CS",
+    "description": "KASA"
+  },
+  {
+    "code": "JR",
+    "description": "KAVANOZ"
+  },
+  {
+    "code": "NPL",
+    "description": "KOLİ"
+  },
+  {
+    "code": "M43",
+    "description": "MIL"
+  },
+  {
+    "code": "PF",
+    "description": "PALET"
+  },
+  {
+    "code": "BG",
+    "description": "POŞET"
+  },
+  {
+    "code": "BK",
+    "description": "SEPET"
+  },
+  {
+    "code": "BO",
+    "description": "ŞİŞE"
+  },
+  {
+    "code": "H87",
+    "description": "TANE"
+  },
+  {
+    "code": "TN",
+    "description": "TENEKE"
+  },
+  {
+    "code": "26",
+    "description": "TON"
+  },
+  {
+    "code": "TU",
+    "description": "TÜP"
+  },
+  {
+    "code": "G52",
+    "description": "cm3(G52)"
+  },
+  {
+    "code": "K51",
+    "description": "MKCAL"
+  },
+  {
+    "code": "J39",
+    "description": "MMBTU"
+  },
+  {
+    "code": "SM3",
+    "description": "SM3"
+  },
+  {
+    "code": "CT",
+    "description": "Karton"
+  }
+]
