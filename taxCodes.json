@@ -1,0 +1,1198 @@
+[
+  {
+    "taxCode": "0001",
+    "taxName": "YILLIK GELİR VERGİSİ"
+  },
+  {
+    "taxCode": "0002",
+    "taxName": "ZIRAİ KAZANÇ GELİR VERGİSİ"
+  },
+  {
+    "taxCode": "0003",
+    "taxName": "GELİR VERGİSİ S. (MUHTASAR)"
+  },
+  {
+    "taxCode": "0004",
+    "taxName": "GELİR GÖTÜRÜ TİCARİ KAZANÇ"
+  },
+  {
+    "taxCode": "0005",
+    "taxName": "GELİR GÖTÜRÜ SERBEST MESLEK KAZANCI"
+  },
+  {
+    "taxCode": "0006",
+    "taxName": "GELİR GÖTÜRÜ ÜCRET"
+  },
+  {
+    "taxCode": "0007",
+    "taxName": "DAĞITILMAYAN KAR STOPAJI"
+  },
+  {
+    "taxCode": "0010",
+    "taxName": "KURUMLAR VERGİSİ"
+  },
+  {
+    "taxCode": "0011",
+    "taxName": "KURUMLAR VERGİSİ STOPAJI (KVKM24)"
+  },
+  {
+    "taxCode": "0012",
+    "taxName": "GELİR VERGİSİ (GMSI)"
+  },
+  {
+    "taxCode": "0014",
+    "taxName": "BASIT USULDE TİCARİ KAZANC"
+  },
+  {
+    "taxCode": "0015",
+    "taxName": "GERÇEK USULDE KATMA DEĞER VERGİSİ"
+  },
+  {
+    "taxCode": "0017",
+    "taxName": "GÖTÜRÜ USULDE KATMA DEĞER VERGİSİ"
+  },
+  {
+    "taxCode": "0020",
+    "taxName": "MEP İŞTİRAKÇİSİ KURUMLAR VERGİSİ"
+  },
+  {
+    "taxCode": "0021",
+    "taxName": "BANKA MUAMELELERİ VERGİSİ"
+  },
+  {
+    "taxCode": "0022",
+    "taxName": "SİGORTA MUAMELELERİ VERGİSİ"
+  },
+  {
+    "taxCode": "0027",
+    "taxName": "GELİR VERGİSİ GEÇİCİ VERGİ"
+  },
+  {
+    "taxCode": "0032",
+    "taxName": "GELİR GEÇİCİ VERGİ"
+  },
+  {
+    "taxCode": "0033",
+    "taxName": "KURUM GEÇİCİ VERGİ"
+  },
+  {
+    "taxCode": "0040",
+    "taxName": "DAMGA VERGİSİ (BEYANNAMELİ DAMGA VERGİSİ MÜKELLEFİ)"
+  },
+  {
+    "taxCode": "0046",
+    "taxName": "AKARYAKIT TÜKETİM VERGİSİ"
+  },
+  {
+    "taxCode": "0048",
+    "taxName": "GELİR V. M.TALİH OYUNLARI ASGARİ VERGİ"
+  },
+  {
+    "taxCode": "0049",
+    "taxName": "HER TÜRLÜ İSPİRTOLAR VE FÜZEL YAĞINDAN ALINAN EK VERGİ"
+  },
+  {
+    "taxCode": "0050",
+    "taxName": "KURUMLAR V. M.TALİH OYUNLARI ASGARİ VERGİ"
+  },
+  {
+    "taxCode": "0051",
+    "taxName": "DİĞER ÜCRETLER"
+  },
+  {
+    "taxCode": "0053",
+    "taxName": "KURUMLAR VERGİSİ KURUM GEÇİCİ VERGİ"
+  },
+  {
+    "taxCode": "0056",
+    "taxName": "OYUN KAĞITLARINDAN ALINAN EK VERGİ"
+  },
+  {
+    "taxCode": "0057",
+    "taxName": "RÖNTGEN FİLMLERİNDEN ALINAN EK VERGİ"
+  },
+  {
+    "taxCode": "0060",
+    "taxName": "MÜLGA MADEN FONU"
+  },
+  {
+    "taxCode": "0061",
+    "taxName": "KAYNAK KULLANIMI DESTEKLEME FONU KESİNTİSİ"
+  },
+  {
+    "taxCode": "0062",
+    "taxName": "MÜLGA KOOPERATİFÇİLİK TANITMA VE EĞİTİM FONU"
+  },
+  {
+    "taxCode": "0067",
+    "taxName": "G.V.K. GEÇİCİ 67/11 MADDESİNE GÖRE YAPILAN İHTİYARİ BEYAN"
+  },
+  {
+    "taxCode": "0071",
+    "taxName": "PETROL VE DOĞALGAZ ÜRÜNLERİNE İLİŞKİN ÖZEL TÜKETİM VERGİSİ"
+  },
+  {
+    "taxCode": "0073",
+    "taxName": "KOLALI GAZOZ, ALKOLLÜ İÇEÇEKLER VE TÜTÜN MAMÜLLERİNE İLİŞKİN ÖZEL TÜKETİM VERGİSİ"
+  },
+  {
+    "taxCode": "0074",
+    "taxName": "DAYANIKLI TÜKETİM VE DİĞER MALLARA İLİŞKİN ÖZEL TÜKETİM VERGİSİ"
+  },
+  {
+    "taxCode": "0075",
+    "taxName": "ALKOLLÜ İÇEÇEKLERE İLİŞKİN ÖZEL TÜKETİM VERGİSİ"
+  },
+  {
+    "taxCode": "0076",
+    "taxName": "TÜTÜN MAMÜLLERİNE İLİŞKİN ÖZEL TÜKETİM VERGİSİ"
+  },
+  {
+    "taxCode": "0077",
+    "taxName": "KOLALI GAZOZLARA İLİŞKİN ÖZEL TÜKETİM VERGİSİ"
+  },
+  {
+    "taxCode": "0091",
+    "taxName": "TÜTÜN MAMÜLLERİNE İLİŞKİN EK VERGİ"
+  },
+  {
+    "taxCode": "0092",
+    "taxName": "HER TÜRLÜ ALKOLLÜ İÇKİLERE İLİŞKİN EK VERGİ"
+  },
+  {
+    "taxCode": "0093",
+    "taxName": "SAİR ŞARAP VE BİRALARA İLİŞKİN EK VERGİ"
+  },
+  {
+    "taxCode": "0094",
+    "taxName": "HER TÜRLÜ ALKOLSÜZ İÇECEKLERDEN ALINAN EK VERGİ"
+  },
+  {
+    "taxCode": "1013",
+    "taxName": "EĞİTİM,GENÇLİK,SPOR VE SAĞLIK HİZMETLERİ VERGİSİ"
+  },
+  {
+    "taxCode": "1018",
+    "taxName": "MAHSUPLARDAN KESİLEN DAMGA VERGİSİ"
+  },
+  {
+    "taxCode": "1020",
+    "taxName": "FON PAYI"
+  },
+  {
+    "taxCode": "1026",
+    "taxName": "5254 SAYILI KANUNA GÖRE MUHTAÇ ÇİFTÇİLERE VERİLEN ÖDÜNÇ TOHUMLUKLARDAN HAZİNE ALACAĞINA DÖNÜŞENLER AİT FAİZ"
+  },
+  {
+    "taxCode": "1027",
+    "taxName": "2004/5682 SAYILI BKK İLE HAZİNE ALACĞINA DÖNÜŞEN TOHUMLUK KREDİLERİNE DÖNÜŞENLER AİT FAİZ"
+  },
+  {
+    "taxCode": "1028",
+    "taxName": "5335 SAYILI KANUNA GÖRE DESTEKLEME FİYAT İSTİKRAR FONUNA AİT FAİZ"
+  },
+  {
+    "taxCode": "1030",
+    "taxName": "PİŞMANLIK ZAMMI"
+  },
+  {
+    "taxCode": "1037",
+    "taxName": "TRAFİK MUAYENESİ PARA CEZALARI"
+  },
+  {
+    "taxCode": "1042",
+    "taxName": "E.KATKI PAYI"
+  },
+  {
+    "taxCode": "1043",
+    "taxName": "ÖZEL İŞLEM VERGİSİ"
+  },
+  {
+    "taxCode": "1046",
+    "taxName": "TEVKİFATTAN ALINAN DAMGA VERGİSİ"
+  },
+  {
+    "taxCode": "1047",
+    "taxName": "DAMGA VERGİSİ"
+  },
+  {
+    "taxCode": "1048",
+    "taxName": "5035 SAYILI KANUNA GÖRE DAMGA VERGİSİ"
+  },
+  {
+    "taxCode": "1050",
+    "taxName": "VERGİ BARIŞI TEFE TUTARI"
+  },
+  {
+    "taxCode": "1051",
+    "taxName": "VERGİ BARIŞI GEÇ ÖDEME ZAMMI"
+  },
+  {
+    "taxCode": "1052",
+    "taxName": "5335 SAYILI KANUNA GÖRE HAZİNE ALACAĞINA DÖNÜŞEN TOHUMLUK KREDİLERİNE AİT GEÇ ÖDEME ZAMMI"
+  },
+  {
+    "taxCode": "1053",
+    "taxName": "5736 SAYILI KANUN UYARINCA GEÇ ÖDEME ZAMMI"
+  },
+  {
+    "taxCode": "1055",
+    "taxName": "DÜŞÜK OLAN DEĞERLEME TUTARI"
+  },
+  {
+    "taxCode": "1067",
+    "taxName": "VERGİ YARGI HARÇLARI"
+  },
+  {
+    "taxCode": "1084",
+    "taxName": "GECİKME FAİZİ"
+  },
+  {
+    "taxCode": "1085",
+    "taxName": "PARA CEZASI FAİZİ"
+  },
+  {
+    "taxCode": "1086",
+    "taxName": "GECİKME ZAMMI"
+  },
+  {
+    "taxCode": "1087",
+    "taxName": "ERKEN ÖDEME İNDİRİMİ"
+  },
+  {
+    "taxCode": "1088",
+    "taxName": "PEŞİN ÖDEME İNDİRİMİ"
+  },
+  {
+    "taxCode": "1089",
+    "taxName": "ALINAN DİĞER FAİZLER"
+  },
+  {
+    "taxCode": "1090",
+    "taxName": "KANUNİ FAİZ"
+  },
+  {
+    "taxCode": "1091",
+    "taxName": "5736 SAYILI KANUN UYARINCA ALINAN FAİZ"
+  },
+  {
+    "taxCode": "1092",
+    "taxName": "HESAPLANAN FA?Z"
+  },
+  {
+    "taxCode": "1095",
+    "taxName": "SAVUNMA SANAYİ DESTEKLEME FONU"
+  },
+  {
+    "taxCode": "1096",
+    "taxName": "KONUT FONU"
+  },
+  {
+    "taxCode": "3024",
+    "taxName": "KAYNAK KULLANIMI DESTEKLEME PRİMİ CEZAİ FAİZİ"
+  },
+  {
+    "taxCode": "3061",
+    "taxName": "CEZAİ FAİZ(KAYNAK KULLANIMI DESTEKLEME FONU KESİNTİLERİ)"
+  },
+  {
+    "taxCode": "3073",
+    "taxName": "USULSÜZLÜK CEZASI"
+  },
+  {
+    "taxCode": "3074",
+    "taxName": "ÖZEL USULSÜZLÜK CEZASI"
+  },
+  {
+    "taxCode": "3076",
+    "taxName": "KUSUR CEZASI"
+  },
+  {
+    "taxCode": "3077",
+    "taxName": "AĞIR KUSUR CEZASI"
+  },
+  {
+    "taxCode": "3078",
+    "taxName": "KAÇAKÇILIK CEZASI"
+  },
+  {
+    "taxCode": "3080",
+    "taxName": "VERGİ ZİYAI CEZASI"
+  },
+  {
+    "taxCode": "3099",
+    "taxName": "VUK 112/4 Maddesi Gereğince Ödenen Faiz"
+  },
+  {
+    "taxCode": "4001",
+    "taxName": "EK GELİR VERGİSİ"
+  },
+  {
+    "taxCode": "4003",
+    "taxName": "EK ÜCRET GELİR VERGİSİ"
+  },
+  {
+    "taxCode": "4004",
+    "taxName": "EK GÖTÜRÜ TİCARİ KAZANÇ VERGİSİ"
+  },
+  {
+    "taxCode": "4005",
+    "taxName": "EK GÖTÜRÜ SERBEST MESLEK KAZANCI VERGİSİ"
+  },
+  {
+    "taxCode": "4006",
+    "taxName": "FAİZ VERGİSİ"
+  },
+  {
+    "taxCode": "4007",
+    "taxName": "EK EMLAK VERGİSİ"
+  },
+  {
+    "taxCode": "4008",
+    "taxName": "GELİR DAHİLİ TEVKİFAT"
+  },
+  {
+    "taxCode": "4010",
+    "taxName": "EK KURUMLAR VERGİSİ"
+  },
+  {
+    "taxCode": "4011",
+    "taxName": "KURUMLAR VERGİSİ ARGE HARCAMALARI"
+  },
+  {
+    "taxCode": "4012",
+    "taxName": "KURUM DAHİLİ TEVKİFAT"
+  },
+  {
+    "taxCode": "4014",
+    "taxName": "MÜNFERİT GELİR EKONOMİK DENGE V."
+  },
+  {
+    "taxCode": "4016",
+    "taxName": "ÜCRETLERDEN ALINACAK E.D.V."
+  },
+  {
+    "taxCode": "4021",
+    "taxName": "4705 Sayılı Kanuna Göre Tahsil Edilen Özel İşlem Vergisi"
+  },
+  {
+    "taxCode": "4030",
+    "taxName": "G.V.K. GEÇİCİ 67. MADDESİNE GÖRE YAPILAN TEVKİFAT"
+  },
+  {
+    "taxCode": "4034",
+    "taxName": "MOTORLU TAŞITLAR EK VERGİSİ"
+  },
+  {
+    "taxCode": "4035",
+    "taxName": "4837 S.K EK MOTORLU TAŞITLAR VERGİSİ"
+  },
+  {
+    "taxCode": "4036",
+    "taxName": "4962 S. TAŞIT VERGİSİ"
+  },
+  {
+    "taxCode": "4037",
+    "taxName": "TRAFİK MUAYENE ÜCRETİ HAZİNE PAYI"
+  },
+  {
+    "taxCode": "4040",
+    "taxName": "MÜLGA TRAFİK HİZMETLERİNİ GELİŞTİRME FONU REKLAM GELİRLERİ"
+  },
+  {
+    "taxCode": "4041",
+    "taxName": "GELİR VE KURUM EKONOMİK DENGE VERGİSİ"
+  },
+  {
+    "taxCode": "4042",
+    "taxName": "5035 RTÜK EĞİTİME KATKI PAYI"
+  },
+  {
+    "taxCode": "4043",
+    "taxName": "GÖTÜRÜ EKONOMİK DENGE VERGİSİ"
+  },
+  {
+    "taxCode": "4044",
+    "taxName": "GELİR VE KURUM STOPAJ EKONOMİK DENGE VERGİSİ"
+  },
+  {
+    "taxCode": "4046",
+    "taxName": "Akaryakıt Fiyat İstikrar Payı"
+  },
+  {
+    "taxCode": "4047",
+    "taxName": "TEK BAŞINA ALINABİLEN DAMGA VERGİSİ"
+  },
+  {
+    "taxCode": "4048",
+    "taxName": "ŞANS OYUNLARI VERGİSİ"
+  },
+  {
+    "taxCode": "4049",
+    "taxName": "5035 SAYILI KANUNA GÖRE FİNANSAL FAALİYET HARCI"
+  },
+  {
+    "taxCode": "4050",
+    "taxName": "TEKEL SAFİ HASILAT"
+  },
+  {
+    "taxCode": "4060",
+    "taxName": "TECİLLİ ALACAKLARDAN TAHSİLAT"
+  },
+  {
+    "taxCode": "4061",
+    "taxName": "İTHALATTA KAYNAK KULLANIMI DESTEKLEME FONU KESİNTİSİ"
+  },
+  {
+    "taxCode": "4063",
+    "taxName": "NOTER HARÇLARI"
+  },
+  {
+    "taxCode": "4070",
+    "taxName": "G.V.K. GEÇİCİ 70. MD KAPSAMINDA MUHTASAR V."
+  },
+  {
+    "taxCode": "4072",
+    "taxName": "MOTORLU TAŞIT ARAÇLARINA İLİŞKİN ÖZEL TÜKETİM VERGİSİ (TESCİLE TABİ OLMAYANLAR)"
+  },
+  {
+    "taxCode": "4073",
+    "taxName": "ERTELENEN GELİR STOPAJ (4325 4.MADDE/4369 GEÇİCİ 5.MADDE)"
+  },
+  {
+    "taxCode": "4074",
+    "taxName": "ERTELENEN GELİR STOPAJ (4747 SAYILI KANUNUNUN 2.MADDESİ)"
+  },
+  {
+    "taxCode": "4077",
+    "taxName": "MÜNFERİT KURUM E. D. V."
+  },
+  {
+    "taxCode": "4078",
+    "taxName": "NET AKTİF VERGİSİ"
+  },
+  {
+    "taxCode": "4079",
+    "taxName": "KIYMETLİ MADEN VE ZIYNET EŞYASINDAN ALINAN VERGİ"
+  },
+  {
+    "taxCode": "4080",
+    "taxName": "ÖZEL İLETİŞİM VERGİSİ"
+  },
+  {
+    "taxCode": "4081",
+    "taxName": "5035 SAYILI KANUNA GÖRE ÖZEL İLETİŞİM VERGİSİ"
+  },
+  {
+    "taxCode": "4101",
+    "taxName": "VERGİ BARIŞI MATRAH ARTIRIMI YILLIK GELİR VERGİSİ"
+  },
+  {
+    "taxCode": "4103",
+    "taxName": "VERGİ BARIŞI MATRAH ARTIRIMI GELİR VERGİSİ S. (MUHTASAR)"
+  },
+  {
+    "taxCode": "4107",
+    "taxName": "VERGİ BARIŞI MATRAH ARTIRIMI DAĞITILMAYAN KAR STOPAJI"
+  },
+  {
+    "taxCode": "4110",
+    "taxName": "VERGİ BARIŞI MATRAH ARTIRIMI KURUMLAR VERGİSİ"
+  },
+  {
+    "taxCode": "4112",
+    "taxName": "VERGİ BARIŞI MATRAH ARTIRIMI GELİR VERGİSİ (GMSİ)"
+  },
+  {
+    "taxCode": "4114",
+    "taxName": "VERGİ BARIŞI MATRAH ARTIRIMI BASIT USULDE TİCARİ KAZANC"
+  },
+  {
+    "taxCode": "4115",
+    "taxName": "VERGİ BARIŞI MATRAH ARTIRIMI GERÇEK USULDE KATMA DEĞER VERGİSİ"
+  },
+  {
+    "taxCode": "4121",
+    "taxName": "VERGİ BARIŞI KESİNLEŞEN KAMU ALACAKLARI 2. MADDE 1/AB"
+  },
+  {
+    "taxCode": "4122",
+    "taxName": "VERGİ BARIŞI KESİNLEŞEN KAMU ALACAKLARI 2. MADDE 1/C"
+  },
+  {
+    "taxCode": "4123",
+    "taxName": "VERGİ BARIŞI KESİNLEŞEN KAMU ALACAKLARI 2. MADDE/6 MTV"
+  },
+  {
+    "taxCode": "4124",
+    "taxName": "VERGİ BARIŞI KESİNLEŞMEYEN KAMU ALACAKLARI 3. MADDE"
+  },
+  {
+    "taxCode": "4125",
+    "taxName": "VERGİ BARIŞI İNCELEME VE TARHİYAT 5.MADDE"
+  },
+  {
+    "taxCode": "4126",
+    "taxName": "VERGİ BARIŞI PİŞMANLIK 6.MADDE 1/AB"
+  },
+  {
+    "taxCode": "4127",
+    "taxName": "VERGİ BARIŞI PİŞMANLIK 6.MADDE 1/DİĞER HÜKÜMLER"
+  },
+  {
+    "taxCode": "4128",
+    "taxName": "VERGİ BARIŞI ECRİMİSİL 15.MADDE"
+  },
+  {
+    "taxCode": "4130",
+    "taxName": "VERGİ BARIŞI KIYMETLİ MADEN VE ZİYNET EŞYASI BEYANI"
+  },
+  {
+    "taxCode": "4140",
+    "taxName": "6183 B/4 TAHSİLAT GENEL TEBLİĞİ TAHSİLATI"
+  },
+  {
+    "taxCode": "5015",
+    "taxName": "E-BEYANNAME B FORMU"
+  },
+  {
+    "taxCode": "5030",
+    "taxName": "G.V.K. GEÇİCİ 67. MADDESİNE GÖRE YAPILAN TEVKİFAT EK2 EK3"
+  },
+  {
+    "taxCode": "5569",
+    "taxName": "5569 SAYILI KANUN UYARINCA KOBİ TECİLLİ TAHSİLAT"
+  },
+  {
+    "taxCode": "9000",
+    "taxName": "İDARİ PARA CEZASI (4703 SK)"
+  },
+  {
+    "taxCode": "9001",
+    "taxName": "EMANETEN YAPILAN TAHSİLAT"
+  },
+  {
+    "taxCode": "9002",
+    "taxName": "NÜFUS PARA CEZASI"
+  },
+  {
+    "taxCode": "9003",
+    "taxName": "SEÇİM PARA CEZASI"
+  },
+  {
+    "taxCode": "9004",
+    "taxName": "ASKERLİK PARA CEZASI"
+  },
+  {
+    "taxCode": "9005",
+    "taxName": "ADLİ MAHKEME PARA CEZASI"
+  },
+  {
+    "taxCode": "9006",
+    "taxName": "1475 SAYILI İÇ KANUNUNA BA¦LI PARA CEZASI"
+  },
+  {
+    "taxCode": "9007",
+    "taxName": "3516 SAYILI KANUNA GÖRE ÖLÇÜ AYAR PARA CEZASI"
+  },
+  {
+    "taxCode": "9008",
+    "taxName": "TRAFİK ZABITASI TESPİTİNE DAYALI ÖZEL USULSÜZLÜK CEZASI"
+  },
+  {
+    "taxCode": "9009",
+    "taxName": "TURİZM PARA CEZASI"
+  },
+  {
+    "taxCode": "9010",
+    "taxName": "TÜKETİCİYİ KORUMA KANUNUNA GÖRE KESİLEN PARA CEZASI"
+  },
+  {
+    "taxCode": "9011",
+    "taxName": "ÇEVRE KİRLİLİĞİ PARA CEZASI"
+  },
+  {
+    "taxCode": "9012",
+    "taxName": "ESNAF S.HARÇ"
+  },
+  {
+    "taxCode": "9013",
+    "taxName": "GÜMRÜK VERGİSİ"
+  },
+  {
+    "taxCode": "9014",
+    "taxName": "Yurt Dışı Çıkış Harcı"
+  },
+  {
+    "taxCode": "9015",
+    "taxName": "KATMA DEĞER VERGİSİ TEVKİFATI"
+  },
+  {
+    "taxCode": "9016",
+    "taxName": "BİLİRKİŞİ ÜCRETİ"
+  },
+  {
+    "taxCode": "9017",
+    "taxName": "TÜRK ULUSLARARASI GEMİ SİCİL KAYIT HARCI"
+  },
+  {
+    "taxCode": "9018",
+    "taxName": "YILLIK TONAJ HARCI"
+  },
+  {
+    "taxCode": "9019",
+    "taxName": "ELEKTRİK PİYASASI KANUNU PARA CEZASI"
+  },
+  {
+    "taxCode": "9020",
+    "taxName": "MÜKELLEFLERİN VERGİ BORCUNA MAHSUBEN YAPILAN TEVKİFATLAR"
+  },
+  {
+    "taxCode": "9021",
+    "taxName": "4961 BANKA SİGORTA MUAMELELERİ VERGİSİ"
+  },
+  {
+    "taxCode": "9022",
+    "taxName": "KUR FARKI HESABI"
+  },
+  {
+    "taxCode": "9023",
+    "taxName": "YÜKSEK ÖĞRENİM KREDİ BORCU HESABI"
+  },
+  {
+    "taxCode": "9024",
+    "taxName": "KAYNAK KULLANIMI DESTEKLEME PRİMİ HESABI"
+  },
+  {
+    "taxCode": "9025",
+    "taxName": "İHRACATTA VERGİ İADESİ HESABI"
+  },
+  {
+    "taxCode": "9026",
+    "taxName": "GELİŞTİRME VE DESTEKLEME FONU HESABI"
+  },
+  {
+    "taxCode": "9027",
+    "taxName": "ÇALIŞMA İZİN HARCI"
+  },
+  {
+    "taxCode": "9028",
+    "taxName": "DESTEKLEME VE FİYAT İSTİKRAR FONU HESABI"
+  },
+  {
+    "taxCode": "9029",
+    "taxName": "DİPLOMA HARCI"
+  },
+  {
+    "taxCode": "9030",
+    "taxName": "EK MOTORLU TAŞITLAR VERGİSİ"
+  },
+  {
+    "taxCode": "9031",
+    "taxName": "VERASET VE İNTİKAL VERGİSİ"
+  },
+  {
+    "taxCode": "9032",
+    "taxName": "EK TAŞIT ALIM VERGİSİ"
+  },
+  {
+    "taxCode": "9033",
+    "taxName": "TADPK İDARİ PARA CEZASI"
+  },
+  {
+    "taxCode": "9034",
+    "taxName": "MOTORLU TAŞITLAR VERGİSİ"
+  },
+  {
+    "taxCode": "9035",
+    "taxName": "TAŞIT ALIM VERGİSİ"
+  },
+  {
+    "taxCode": "9036",
+    "taxName": "YİYECEK BEDELLERİ"
+  },
+  {
+    "taxCode": "9037",
+    "taxName": "TEMİNAT O. YAPILAN THS."
+  },
+  {
+    "taxCode": "9038",
+    "taxName": "İADELERDEN ALACAKLILAR"
+  },
+  {
+    "taxCode": "9039",
+    "taxName": "HESAP KART VE DEFTERLERİNE İŞLENMEYEN TAHSİLATLAR"
+  },
+  {
+    "taxCode": "9040",
+    "taxName": "MERA FONU"
+  },
+  {
+    "taxCode": "9041",
+    "taxName": "MERA FONU PARA CEZASI"
+  },
+  {
+    "taxCode": "9042",
+    "taxName": "MÜLGA TRAFİK HİZMETLERİNİ GELİŞTİRME FONU TİCARİ PLAKA GELİRLERİ"
+  },
+  {
+    "taxCode": "9043",
+    "taxName": "MÜLGA YATIRIM TEŞVİK FONU"
+  },
+  {
+    "taxCode": "9044",
+    "taxName": "4961 S.K. GEÇİCİ 2. MAD. 3.FIKRASINA GÖRE TAHSILAT"
+  },
+  {
+    "taxCode": "9045",
+    "taxName": "TAHSİLATI HIZLANDIRMA TEBLİĞİNE GÖRE VERİLEN TAHAKKUK"
+  },
+  {
+    "taxCode": "9046",
+    "taxName": "ÖZEL HESAP GELİRLERİ"
+  },
+  {
+    "taxCode": "9047",
+    "taxName": "TEK BAŞINA ALINABİLEN DAMGA VERGİSİ"
+  },
+  {
+    "taxCode": "9048",
+    "taxName": "5035 SAYILI KANUNA GÖRE HARÇ"
+  },
+  {
+    "taxCode": "9049",
+    "taxName": "4749 KAMU FINANS BORC YÖN. DÜZEN. HAK. KANUN HAZİNE ALACAKLARI"
+  },
+  {
+    "taxCode": "9050",
+    "taxName": "KARAYOLLARI TAŞIMA KANUNU İDARİ PARA CEZASI"
+  },
+  {
+    "taxCode": "9051",
+    "taxName": "DIŞ SEYAHAT HARCAMALARI VERGİSİ"
+  },
+  {
+    "taxCode": "9052",
+    "taxName": "TAŞINMAZ MALLAR SATIŞ GELİRLERİ"
+  },
+  {
+    "taxCode": "9053",
+    "taxName": "ECRİMİSİL GELİRLERİ"
+  },
+  {
+    "taxCode": "9054",
+    "taxName": "DİĞER TAŞINMAZ MALLAR İDARE GELİRLERİ"
+  },
+  {
+    "taxCode": "9055",
+    "taxName": "TAŞINIR MALLAR SATIŞ GELİRLERİ"
+  },
+  {
+    "taxCode": "9056",
+    "taxName": "DOGALGAZ PİYASASI KANUNU PARA CEZASI"
+  },
+  {
+    "taxCode": "9057",
+    "taxName": "DOĞRUDAN GELİR DESTEĞİ ÖDEMELERİ"
+  },
+  {
+    "taxCode": "9058",
+    "taxName": "PETROLDEN DEVLET HAKKI"
+  },
+  {
+    "taxCode": "9059",
+    "taxName": "TİCARET SİCİL HARCI"
+  },
+  {
+    "taxCode": "9060",
+    "taxName": "MADENLERDEN DEVLET HAKKI"
+  },
+  {
+    "taxCode": "9061",
+    "taxName": "OYUN KAĞIDI GELİRLERİ"
+  },
+  {
+    "taxCode": "9062",
+    "taxName": "TAPU HARÇLARI"
+  },
+  {
+    "taxCode": "9063",
+    "taxName": "YENİDEN İNŞA OLUNACAK BİNA VESAİR TESİSLERİ TESCİL HARCI"
+  },
+  {
+    "taxCode": "9064",
+    "taxName": "PASAPORT VE KONSOLOSLUK HARÇLARI"
+  },
+  {
+    "taxCode": "9065",
+    "taxName": "TRAFİK HARÇLARI"
+  },
+  {
+    "taxCode": "9066",
+    "taxName": "YARGI HARÇLARI"
+  },
+  {
+    "taxCode": "9067",
+    "taxName": "İTHAL VE İMAL RUHSAT VE TEMDİT ÜCRETİ"
+  },
+  {
+    "taxCode": "9068",
+    "taxName": "GEMİ VE LİMAN HARÇLARI"
+  },
+  {
+    "taxCode": "9069",
+    "taxName": "DİĞER HARÇLAR"
+  },
+  {
+    "taxCode": "9070",
+    "taxName": "DEĞERLİ KAĞITLAR GELİRLERİ"
+  },
+  {
+    "taxCode": "9071",
+    "taxName": "TAVİZLERDEN GERİ ALINANLAR"
+  },
+  {
+    "taxCode": "9072",
+    "taxName": "İKRAZLARDAN GERİ ALINANLAR"
+  },
+  {
+    "taxCode": "9073",
+    "taxName": "YEM ANALİZ ÜCRETİ"
+  },
+  {
+    "taxCode": "9074",
+    "taxName": "ŞEKER FİYAT FARKI"
+  },
+  {
+    "taxCode": "9075",
+    "taxName": "AKARYAKIT FİYAT FARKI"
+  },
+  {
+    "taxCode": "9076",
+    "taxName": "BAŞKA MUHASEBE BİRİMİ ADINA YAPILAN TAHSİLAT"
+  },
+  {
+    "taxCode": "9077",
+    "taxName": "MOTORLU TAŞIT ARAÇLARINA İLİŞKİN ÖZEL TÜKETİM VERGİSİ (TESCİLE TABİ OLANLAR)"
+  },
+  {
+    "taxCode": "9078",
+    "taxName": "GÜBRE DENEY VE ANALİZ ÜCRETİ"
+  },
+  {
+    "taxCode": "9079",
+    "taxName": "4961 S.K. GEÇİCİ 1. MAD. GÖRE PARA CEZASI"
+  },
+  {
+    "taxCode": "9080",
+    "taxName": "DİĞER PARA CEZALARI"
+  },
+  {
+    "taxCode": "9081",
+    "taxName": "ZİMMETLERE GEÇİRİLEN PARA VE DEĞERLERDEN BORÇLULAR"
+  },
+  {
+    "taxCode": "9082",
+    "taxName": "FAZLA VE YERSİZ YAPILAN ÖDEMELERDEN BORÇLULAR"
+  },
+  {
+    "taxCode": "9083",
+    "taxName": "SOSYAL DAYANIŞMA VE YARDIMLAŞMAYI TEŞVİK FONU"
+  },
+  {
+    "taxCode": "9084",
+    "taxName": "İSTİHSAL VERGİSİ"
+  },
+  {
+    "taxCode": "9085",
+    "taxName": "TRAFİK CEZALARI"
+  },
+  {
+    "taxCode": "9086",
+    "taxName": "HESAPLANAN GECİKME ZAMMI"
+  },
+  {
+    "taxCode": "9087",
+    "taxName": "TAKİP GİDERLERİ KARŞILIĞI ALINAN"
+  },
+  {
+    "taxCode": "9088",
+    "taxName": "ÇIRAKLIK FONU"
+  },
+  {
+    "taxCode": "9089",
+    "taxName": "2000/2 SAYILI BKK GEREĞİNCE YATIRIMLARI TEŞVİK FONUNA AKTIRILACAK TUTARLAR"
+  },
+  {
+    "taxCode": "9090",
+    "taxName": "ÇEŞİTLİ GELİRLER"
+  },
+  {
+    "taxCode": "9091",
+    "taxName": "PETROLDEN DEVLET HİSSESİ"
+  },
+  {
+    "taxCode": "9092",
+    "taxName": "YÜKSEK ÖĞRENİM HARÇ KREDİSİ"
+  },
+  {
+    "taxCode": "9093",
+    "taxName": "RESMİ ARABULUCULUK ÜCRETİ"
+  },
+  {
+    "taxCode": "9094",
+    "taxName": "EM.SAN. 17 MAD. GELİRLERİN THK EDİLMEMESİ CEZASI"
+  },
+  {
+    "taxCode": "9095",
+    "taxName": "4961 S.K. GEÇİCİ 2. MAD. 1.FIKRAYA GÖRE TAHSİLAT"
+  },
+  {
+    "taxCode": "9096",
+    "taxName": "4369/15 SUÇA İŞTİRAK EDEN KİŞİLER"
+  },
+  {
+    "taxCode": "9097",
+    "taxName": "HAKSIZ ALINAN VERGİ İADESİ"
+  },
+  {
+    "taxCode": "9098",
+    "taxName": "HAKSIZ ALINAN VERGİ İADESİ CEZASI"
+  },
+  {
+    "taxCode": "9099",
+    "taxName": "KALDIRILAN VERGİ ARTIKLARI"
+  },
+  {
+    "taxCode": "9101",
+    "taxName": "ŞEKER KANUNU İDARİ PARA CEZASI"
+  },
+  {
+    "taxCode": "9102",
+    "taxName": "GEÇİŞ ÜÇRETİ VE İDARİ PARA CEZASI"
+  },
+  {
+    "taxCode": "9103",
+    "taxName": "5188 SK. GÖRE GÜVENLİK RUHSATI HARCI"
+  },
+  {
+    "taxCode": "9104",
+    "taxName": "TELGRAF VE TELEFON KANUNU 2. MADDE İDARİ PARA CEZASI"
+  },
+  {
+    "taxCode": "9105",
+    "taxName": "SPOR MÜSABAKALRINDA ŞİDDET VE DÜZENSİZLİĞİN ÖNLENMESİ KAN. UYARINCA İPC"
+  },
+  {
+    "taxCode": "9106",
+    "taxName": "4857 S.K. 101. MAD. KAP. İDARİ PARA CEZALARI"
+  },
+  {
+    "taxCode": "9107",
+    "taxName": "ENERJİ DESTEĞİ ÖDEMELERİNDEN GERİ ALINANLAR"
+  },
+  {
+    "taxCode": "9108",
+    "taxName": "4857 SAYILI KANUNA GÖRE GELİR KAYDEDİLECEK PARA CEZALARI"
+  },
+  {
+    "taxCode": "9109",
+    "taxName": "5326 S. KABAHATLER KANUNU İDARİ PARA CEZASI"
+  },
+  {
+    "taxCode": "9110",
+    "taxName": "93/4000 SAYILI YATIRIMLARIN, DÖVİZ. KAZ. HİZ. TEŞVİKİNE İLİŞKİN B.K.K.`NCA HAKSIZ ÖDENEN ENERJİ TEŞVİK GERİ         ÖDEMESİ"
+  },
+  {
+    "taxCode": "9111",
+    "taxName": "ORKÖY FONU GELİRLERİ"
+  },
+  {
+    "taxCode": "9112",
+    "taxName": "2762 SAYILI KANUNA GÖRE ALINAN TAVİZ BEDELİ"
+  },
+  {
+    "taxCode": "9113",
+    "taxName": "GELİR VERGİSİ TEVKİFATI"
+  },
+  {
+    "taxCode": "9114",
+    "taxName": "YABANCI ÜLKEDE GÜÇ VE MUHTAÇ DURUMA DÜŞENLERE YURDA DÖNÜŞ İÇİN ÖDÜNÇ VERİLEN PARALAR"
+  },
+  {
+    "taxCode": "9115",
+    "taxName": "SORUMLU SIFATIYLA VERİLEN KDV."
+  },
+  {
+    "taxCode": "9116",
+    "taxName": "HAZİNE ZARARININ GERİ ALINMASI"
+  },
+  {
+    "taxCode": "9117",
+    "taxName": "EVRENSEL HİZMETİN GELİRLERİ KATKI PAYI"
+  },
+  {
+    "taxCode": "9118",
+    "taxName": "TELEKOMİNİKASYON KURUMU TARAFINDAN YATIRILAN TELGRAF VE TELEFON KANUNU İDARİ PARA CEZALARI"
+  },
+  {
+    "taxCode": "9119",
+    "taxName": "SİVİL HAVA ARAÇLARI ÜÇÜNCÜ ŞAHIS MALİ MESULİYET DEVLET GARANTİSİ BEDELİ"
+  },
+  {
+    "taxCode": "9120",
+    "taxName": "TELSİZ, TELEFON VE TELGRAF KANUNU İDARİ PARA CEZASI %20 Sİ"
+  },
+  {
+    "taxCode": "9121",
+    "taxName": "5015 SAYILI PETROL PİYASASI KANUNU İPC"
+  },
+  {
+    "taxCode": "9122",
+    "taxName": "5307 SAYILI SIVILAŞTIRILMIŞ PETROL GAZLARI PİYASASI KANUNU İPC"
+  },
+  {
+    "taxCode": "9123",
+    "taxName": "ENERJİ PİYASASI DÜZENLEME KURULUNCA ÖDENEN ANALİZ ÜCRETİNİN GERİ ALINMASI"
+  },
+  {
+    "taxCode": "9124",
+    "taxName": "KİŞİLERDEN ALACAK FAİZLERİ"
+  },
+  {
+    "taxCode": "9125",
+    "taxName": "AĞAÇLANDIRMA FONU YÖNETMELİĞİNE GÖRE VERİLEN KREDİLERDEN GERİ ALINANLAR"
+  },
+  {
+    "taxCode": "9126",
+    "taxName": "5254 SAYILI KANUNA GÖRE MUHTAÇ ÇİFTÇİLERE VERİLEN ÖDÜNÇ TOHUMLUKLARDAN HAZİNE ALACAĞINA DÖNÜŞENLER"
+  },
+  {
+    "taxCode": "9127",
+    "taxName": "2004/5682 SAYILI BKK İLE HAZİNE ALACĞINA DÖNÜŞEN TOHUMLUK KREDİLERİ"
+  },
+  {
+    "taxCode": "9128",
+    "taxName": "4447 SAYILI İŞSİZLİK SİGORTASI KANUNU UYARINCA KESİLEN İ.P.C"
+  },
+  {
+    "taxCode": "9129",
+    "taxName": "4904 SAYILI İŞ KURUMU KANUNU UYARINCA KESİLEN İ.P.C."
+  },
+  {
+    "taxCode": "9131",
+    "taxName": "VERASET VE İNTİKAL VERGİSİ (SAİR İVAZSIZ İNTİKALLER)"
+  },
+  {
+    "taxCode": "9132",
+    "taxName": "KLAVUZLUK VE ROMÖRKÖRCÜLÜK HİZMET PAYI"
+  },
+  {
+    "taxCode": "9133",
+    "taxName": "MAHALLİ İDARELERDEN ALINAN PAYLAR"
+  },
+  {
+    "taxCode": "9148",
+    "taxName": "4915 ve 5035 SK. GÖRE RUHSAT HARCI"
+  },
+  {
+    "taxCode": "9149",
+    "taxName": "KİRLETİLEN ÇEVRENİNİYİLEŞTİRİLMESİ İÇİNGENEL BÜTÇE KAPS.İD.YAPILAN HARCAMALARIN TAHSİLATI"
+  },
+  {
+    "taxCode": "9153",
+    "taxName": "5736 SAYILI KANUN UYARINCA TAHSİL EDİLECEK ECRİMİSİL GELİRLERİ"
+  },
+  {
+    "taxCode": "9160",
+    "taxName": "MADENLERDEN ALINAN DEVLET HAKKINDAN %50 ?L ™ZEL ?DARE PAYI"
+  },
+  {
+    "taxCode": "9161",
+    "taxName": "MADENLERDEN ALINAN DEVLET HAKKININ %30 FAZLALARI(ORMAN GENEL MšDšRLš?š PAYI)"
+  },
+  {
+    "taxCode": "9162",
+    "taxName": "KADASTRO HARÇLARI"
+  },
+  {
+    "taxCode": "9166",
+    "taxName": "KARAR VE İLAM HARCI"
+  },
+  {
+    "taxCode": "9171",
+    "taxName": "SORUMLU SIFATIYLA VERİLEN ÖTV 1. LİSTE"
+  },
+  {
+    "taxCode": "9180",
+    "taxName": "TELSİZ, TELEFON VE TELGRAF KANUNU İDARİ PARA CEZASI %80 İ"
+  },
+  {
+    "taxCode": "9190",
+    "taxName": "ÇEŞİTLİ GELİRLER(GECİKME ZAMMI HESAPLANAN)"
+  },
+  {
+    "taxCode": "9200",
+    "taxName": "DSİ SULAMA TESİSLERİ İŞLETME VE BAKIM ÜCRETİ"
+  },
+  {
+    "taxCode": "9201",
+    "taxName": "DSİ SULAMA TESİSLERİ YATIRIM BEDELİ"
+  },
+  {
+    "taxCode": "9301",
+    "taxName": "GENEL BÜTÇE DIŞINDA KALAN KURUMLAR TARAFINDAN YAPILAN İ.P.C"
+  },
+  {
+    "taxCode": "9304",
+    "taxName": "TELGRAF VE TELEFON KANUNU 2.MADDE İDARİ PARA CEZASI"
+  },
+  {
+    "taxCode": "9305",
+    "taxName": "SPOR MÜSABAKALARINDA ŞİDDET VE DÜZENSİZLİĞİN ÖNLENMESİ KANUNU UYARINCA İPC"
+  },
+  {
+    "taxCode": "9306",
+    "taxName": "1475 SAYILI İŞ KANUNUNA BAĞLI PARA CEZASI"
+  },
+  {
+    "taxCode": "9307",
+    "taxName": "3516 SAYILI KANUNA GÖRE ÖLÇÜ AYAR PARA CEZASI"
+  },
+  {
+    "taxCode": "9309",
+    "taxName": "TURİZM PARA CEZASI"
+  },
+  {
+    "taxCode": "9310",
+    "taxName": "5549 SAYILI SUÇ GELİRLERİNİN AKLANMASININ ÖNLENMESİ İ.P.C"
+  },
+  {
+    "taxCode": "9311",
+    "taxName": "TÜTÜN MAMULLERİNİN ZARARLARININ ÖNLENMESİNE DAİR KANUN UYARINCA AL.İ.P.C(4207 S.K.)"
+  },
+  {
+    "taxCode": "9315",
+    "taxName": "ŞEKER KANUNU İDARİ PARA CEZASI"
+  },
+  {
+    "taxCode": "9316",
+    "taxName": "4054 SAYILI REKABET KANUNUNUN 55. MADDE KAPSAMINDA İPC"
+  },
+  {
+    "taxCode": "9317",
+    "taxName": "5326 SAYILI KANUN UYARINCA CUMHURİYET SAVCILIKLARINCA VERİLEN İ.P.C."
+  },
+  {
+    "taxCode": "9318",
+    "taxName": "5326 SAYILI KANUN UYARINCA MAHKEMELER TARAFINDAN VERİLEN İ.P.C."
+  },
+  {
+    "taxCode": "9341",
+    "taxName": "MERA FONU PARA CEZASI"
+  },
+  {
+    "taxCode": "9901",
+    "taxName": "ADİ ORTAKLIK MÜKELLEFİYETSİZ MÜKELLEF KAYDI İÇİN VERGİ KODU"
+  }
+]
