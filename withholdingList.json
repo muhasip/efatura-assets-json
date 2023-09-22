@@ -1,0 +1,366 @@
+[
+  {
+    "taxTypeCode": "601",
+    "taxName": "Yapım İşleri İle Bu İşlerle Birlikte İfa Edilen Mühendislikmimarlık Ve Etüt-Proje Hizmetleri",
+    "name": "601 - Yapım İşleri İle Bu İşlerle Birlikte İfa Edilen Mühendislikmimarlık Ve Etüt-Proje Hizmetleri [4/10]",
+    "percent": 40,
+    "ratio": "4/10"
+  },
+  {
+    "taxTypeCode": "602",
+    "taxName": "Etüt, Plan-Proje, Danışmanlık, Denetim Ve Benzeri Hizmetler",
+    "name": "602 - Etüt, Plan-Proje, Danışmanlık, Denetim Ve Benzeri Hizmetler [9/10]",
+    "percent": 90,
+    "ratio": "9/10"
+  },
+  {
+    "taxTypeCode": "603",
+    "taxName": "Makine, Teçhizat, Demirbaş Ve Taşıtlara Ait Tadil, Bakım Ve Onarım Hizmetleri",
+    "name": "603 - Makine, Teçhizat, Demirbaş Ve Taşıtlara Ait Tadil, Bakım Ve Onarım Hizmetleri [7/10]",
+    "percent": 70,
+    "ratio": "7/10"
+  },
+  {
+    "taxTypeCode": "604",
+    "taxName": "Yemek Servis Hizmeti",
+    "name": "604 - Yemek Servis Hizmeti [5/10]",
+    "percent": 50,
+    "ratio": "5/10"
+  },
+  {
+    "taxTypeCode": "605",
+    "taxName": "Organizasyon Hizmeti",
+    "name": "605 - Organizasyon Hizmeti [5/10]",
+    "percent": 50,
+    "ratio": "5/10"
+  },
+  {
+    "taxTypeCode": "606",
+    "taxName": "İşgücü Temin Hizmetleri",
+    "name": "606 - İşgücü Temin Hizmetleri [9/10]",
+    "percent": 90,
+    "ratio": "9/10"
+  },
+  {
+    "taxTypeCode": "607",
+    "taxName": "Özel Güvenlik Hizmeti",
+    "name": "607 - Özel Güvenlik Hizmeti [9/10]",
+    "percent": 90,
+    "ratio": "9/10"
+  },
+  {
+    "taxTypeCode": "608",
+    "taxName": "Yapı Denetim Hizmetleri",
+    "name": "608 - Yapı Denetim Hizmetleri [9/10]",
+    "percent": 90,
+    "ratio": "9/10"
+  },
+  {
+    "taxTypeCode": "609",
+    "taxName": "Fason Olarak Yaptırılan Tekstil Ve Konfeksiyon İşleri,Çanta Ve Ayakkabı Dikim İşleri Ve Bu İşlere Aracılık Hizmetleri",
+    "name": "609 - Fason Olarak Yaptırılan Tekstil Ve Konfeksiyon İşleri,Çanta Ve Ayakkabı Dikim İşleri Ve Bu İşlere Aracılık Hizmetleri [7/10]",
+    "percent": 70,
+    "ratio": "7/10"
+  },
+  {
+    "taxTypeCode": "610",
+    "taxName": "Turistik Mağazalara Verilen Müşteri Bulma / Götürme Hizmetleri",
+    "name": "610 - Turistik Mağazalara Verilen Müşteri Bulma / Götürme Hizmetleri [9/10]",
+    "percent": 90,
+    "ratio": "9/10"
+  },
+  {
+    "taxTypeCode": "611",
+    "taxName": "Spor Kulüplerinin Yayın, Reklâm Ve İsim Hakkı Gelirlerine Konu İşlemleri",
+    "name": "611 - Spor Kulüplerinin Yayın, Reklâm Ve İsim Hakkı Gelirlerine Konu İşlemleri [9/10]",
+    "percent": 90,
+    "ratio": "9/10"
+  },
+  {
+    "taxTypeCode": "612",
+    "taxName": "Temizlik Hizmeti",
+    "name": "612 - Temizlik Hizmeti [9/10]",
+    "percent": 90,
+    "ratio": "9/10"
+  },
+  {
+    "taxTypeCode": "613",
+    "taxName": "Çevre Ve Bahçe Bakım Hizmetleri",
+    "name": "613 - Çevre Ve Bahçe Bakım Hizmetleri [9/10]",
+    "percent": 90,
+    "ratio": "9/10"
+  },
+  {
+    "taxTypeCode": "614",
+    "taxName": "Servis Taşımacılığı Hizmeti",
+    "name": "614 - Servis Taşımacılığı Hizmeti [5/10]",
+    "percent": 50,
+    "ratio": "5/10"
+  },
+  {
+    "taxTypeCode": "615",
+    "taxName": "Her Türlü Baskı Ve Basım Hizmetleri",
+    "name": "615 - Her Türlü Baskı Ve Basım Hizmetleri [7/10]",
+    "percent": 70,
+    "ratio": "7/10"
+  },
+  {
+    "taxTypeCode": "616",
+    "taxName": "Diğer Hizmetler",
+    "name": "616 - Diğer Hizmetler [5/10]",
+    "percent": 50,
+    "ratio": "5/10"
+  },
+  {
+    "taxTypeCode": "617",
+    "taxName": "Hurda Metalden Elde Edilen Külçe Teslimleri",
+    "name": "617 - Hurda Metalden Elde Edilen Külçe Teslimleri [7/10]",
+    "percent": 70,
+    "ratio": "7/10"
+  },
+  {
+    "taxTypeCode": "618",
+    "taxName": "Hurda Metalden Elde Edilenler Dışındaki Bakır, Çinko Demir ; Çelik Alüminyum Ve Kurşun Külçe Teslimleri",
+    "name": "618 - Hurda Metalden Elde Edilenler Dışındaki Bakır, Çinko Demir ; Çelik Alüminyum Ve Kurşun Külçe Teslimleri [7/10]",
+    "percent": 70,
+    "ratio": "7/10"
+  },
+  {
+    "taxTypeCode": "619",
+    "taxName": "Bakır, Çinko Ve Alüminyum Ürünlerinin Teslimi",
+    "name": "619 - Bakır, Çinko Ve Alüminyum Ürünlerinin Teslimi [7/10]",
+    "percent": 70,
+    "ratio": "7/10"
+  },
+  {
+    "taxTypeCode": "620",
+    "taxName": "İstisnadan Vazgeçenlerin Hurda Ve Atık Teslimi",
+    "name": "620 - İstisnadan Vazgeçenlerin Hurda Ve Atık Teslimi [7/10]",
+    "percent": 70,
+    "ratio": "7/10"
+  },
+  {
+    "taxTypeCode": "621",
+    "taxName": "Metal, Plastik, Lastik, Kauçuk, Kâğıt Ve Cam Hurda Ve Atıklardan Elde Edilen Hammadde Teslimi",
+    "name": "621 - Metal, Plastik, Lastik, Kauçuk, Kâğıt Ve Cam Hurda Ve Atıklardan Elde Edilen Hammadde Teslimi [9/10]",
+    "percent": 90,
+    "ratio": "9/10"
+  },
+  {
+    "taxTypeCode": "622",
+    "taxName": "Pamuk, Tiftik, Yün Ve Yapağı İle Ham Post Ve Deri Teslimleri",
+    "name": "622 - Pamuk, Tiftik, Yün Ve Yapağı İle Ham Post Ve Deri Teslimleri [9/10]",
+    "percent": 90,
+    "ratio": "9/10"
+  },
+  {
+    "taxTypeCode": "623",
+    "taxName": "Ağaç Ve Orman Ürünleri Teslimi",
+    "name": "623 - Ağaç Ve Orman Ürünleri Teslimi [5/10]",
+    "percent": 50,
+    "ratio": "5/10"
+  },
+  {
+    "taxTypeCode": "624",
+    "taxName": "Yük Taşımacılığı Hizmeti",
+    "name": "624 - Yük Taşımacılığı Hizmeti [2/10]",
+    "percent": 20,
+    "ratio": "2/10"
+  },
+  {
+    "taxTypeCode": "625",
+    "taxName": "Ticari Reklam Hizmetleri",
+    "name": "625 - Ticari Reklam Hizmetleri [3/10]",
+    "percent": 30,
+    "ratio": "3/10"
+  },
+  {
+    "taxTypeCode": "626",
+    "taxName": "Diğer Teslimler",
+    "name": "626 - Diğer Teslimler [2/10]",
+    "percent": 20,
+    "ratio": "2/10"
+  },
+  {
+    "taxTypeCode": "627",
+    "taxName": "Demir-Çelik Ürünlerinin Teslimi",
+    "name": "627 - Demir-Çelik Ürünlerinin Teslimi [5/10]",
+    "percent": 50,
+    "ratio": "5/10"
+  },
+  {
+    "taxTypeCode": "801",
+    "taxName": "Yapım İşleri İle Bu İşlerle Birlikte İfa Edilen Mühendislik-Mimarlık\nVe Etüt-Proje Hizmetleri",
+    "name": "801 - Yapım İşleri İle Bu İşlerle Birlikte İfa Edilen Mühendislik-Mimarlık\nVe Etüt-Proje Hizmetleri [10/10]",
+    "percent": 100,
+    "ratio": "10/10"
+  },
+  {
+    "taxTypeCode": "802",
+    "taxName": "Etüt, Plan-Proje, Danışmanlık, Denetim Ve Benzeri Hizmetler",
+    "name": "802 - Etüt, Plan-Proje, Danışmanlık, Denetim Ve Benzeri Hizmetler [10/10]",
+    "percent": 100,
+    "ratio": "10/10"
+  },
+  {
+    "taxTypeCode": "803",
+    "taxName": "Makine, Teçhizat, Demirbaş Ve Taşıtlara Ait Tadil, Bakım Ve Onarım Hizmetleri",
+    "name": "803 - Makine, Teçhizat, Demirbaş Ve Taşıtlara Ait Tadil, Bakım Ve Onarım Hizmetleri [10/10]",
+    "percent": 100,
+    "ratio": "10/10"
+  },
+  {
+    "taxTypeCode": "804",
+    "taxName": "Yemek Servis Hizmeti",
+    "name": "804 - Yemek Servis Hizmeti [10/10]",
+    "percent": 100,
+    "ratio": "10/10"
+  },
+  {
+    "taxTypeCode": "805",
+    "taxName": "Organizasyon Hizmeti",
+    "name": "805 - Organizasyon Hizmeti [10/10]",
+    "percent": 100,
+    "ratio": "10/10"
+  },
+  {
+    "taxTypeCode": "806",
+    "taxName": "İşgücü Temin Hizmetleri",
+    "name": "806 - İşgücü Temin Hizmetleri [10/10]",
+    "percent": 100,
+    "ratio": "10/10"
+  },
+  {
+    "taxTypeCode": "807",
+    "taxName": "Özel Güvenlik Hizmeti",
+    "name": "807 - Özel Güvenlik Hizmeti [10/10]",
+    "percent": 100,
+    "ratio": "10/10"
+  },
+  {
+    "taxTypeCode": "808",
+    "taxName": "Yapı Denetim Hizmetleri",
+    "name": "808 - Yapı Denetim Hizmetleri [10/10]",
+    "percent": 100,
+    "ratio": "10/10"
+  },
+  {
+    "taxTypeCode": "809",
+    "taxName": "Fason Olarak Yaptırılan Tekstil Ve Konfeksiyon İşleri, Çanta Ve Ayakkabı Dikim İşleri Ve Bu İşlere Aracılık Hizmetleri",
+    "name": "809 - Fason Olarak Yaptırılan Tekstil Ve Konfeksiyon İşleri, Çanta Ve Ayakkabı Dikim İşleri Ve Bu İşlere Aracılık Hizmetleri [10/10]",
+    "percent": 100,
+    "ratio": "10/10"
+  },
+  {
+    "taxTypeCode": "810",
+    "taxName": "Turistik Mağazalara Verilen Müşteri Bulma/ Götürme Hizmetleri",
+    "name": "810 - Turistik Mağazalara Verilen Müşteri Bulma/ Götürme Hizmetleri [10/10]",
+    "percent": 100,
+    "ratio": "10/10"
+  },
+  {
+    "taxTypeCode": "811",
+    "taxName": "Spor Kulüplerinin Yayın, Reklâm Ve İsim Hakkı Gelirlerine Konu\nİşlemleri",
+    "name": "811 - Spor Kulüplerinin Yayın, Reklâm Ve İsim Hakkı Gelirlerine Konu\nİşlemleri [10/10]",
+    "percent": 100,
+    "ratio": "10/10"
+  },
+  {
+    "taxTypeCode": "812",
+    "taxName": "Temizlik Hizmeti",
+    "name": "812 - Temizlik Hizmeti [10/10]",
+    "percent": 100,
+    "ratio": "10/10"
+  },
+  {
+    "taxTypeCode": "813",
+    "taxName": "Çevre Ve Bahçe Bakım Hizmetleri",
+    "name": "813 - Çevre Ve Bahçe Bakım Hizmetleri [10/10]",
+    "percent": 100,
+    "ratio": "10/10"
+  },
+  {
+    "taxTypeCode": "814",
+    "taxName": "Servis Taşımacılığı Hizmeti",
+    "name": "814 - Servis Taşımacılığı Hizmeti [10/10]",
+    "percent": 100,
+    "ratio": "10/10"
+  },
+  {
+    "taxTypeCode": "815",
+    "taxName": "Her Türlü Baskı Ve Basım Hizmetleri",
+    "name": "815 - Her Türlü Baskı Ve Basım Hizmetleri [10/10]",
+    "percent": 100,
+    "ratio": "10/10"
+  },
+  {
+    "taxTypeCode": "816",
+    "taxName": "Hurda Metalden Elde Edilen Külçe Teslimleri",
+    "name": "816 - Hurda Metalden Elde Edilen Külçe Teslimleri [10/10]",
+    "percent": 100,
+    "ratio": "10/10"
+  },
+  {
+    "taxTypeCode": "817",
+    "taxName": "Hurda Metalden Elde Edilenler Dışındaki Bakır, Çinko, Demir Çelik, Alüminyum Ve Kurşun Külçe Teslimi",
+    "name": "817 - Hurda Metalden Elde Edilenler Dışındaki Bakır, Çinko, Demir Çelik, Alüminyum Ve Kurşun Külçe Teslimi [10/10]",
+    "percent": 100,
+    "ratio": "10/10"
+  },
+  {
+    "taxTypeCode": "818",
+    "taxName": "Bakır, Çinko, Alüminyum Ve Kurşun Ürünlerinin Teslimi",
+    "name": "818 - Bakır, Çinko, Alüminyum Ve Kurşun Ürünlerinin Teslimi [10/10]",
+    "percent": 100,
+    "ratio": "10/10"
+  },
+  {
+    "taxTypeCode": "819",
+    "taxName": "İstisnadan Vazgeçenlerin Hurda Ve Atık Teslimi",
+    "name": "819 - İstisnadan Vazgeçenlerin Hurda Ve Atık Teslimi [10/10]",
+    "percent": 100,
+    "ratio": "10/10"
+  },
+  {
+    "taxTypeCode": "820",
+    "taxName": "Metal, Plastik, Lastik, Kauçuk, Kâğıt Ve Cam Hurda Ve Atıklardan\nElde Edilen Hammadde Teslimi",
+    "name": "820 - Metal, Plastik, Lastik, Kauçuk, Kâğıt Ve Cam Hurda Ve Atıklardan\nElde Edilen Hammadde Teslimi [10/10]",
+    "percent": 100,
+    "ratio": "10/10"
+  },
+  {
+    "taxTypeCode": "821",
+    "taxName": "Pamuk, Tiftik, Yün Ve Yapağı İle Ham Post Ve Deri Teslimleri",
+    "name": "821 - Pamuk, Tiftik, Yün Ve Yapağı İle Ham Post Ve Deri Teslimleri [10/10]",
+    "percent": 100,
+    "ratio": "10/10"
+  },
+  {
+    "taxTypeCode": "822",
+    "taxName": "Ağaç Ve Orman Ürünleri Teslimi",
+    "name": "822 - Ağaç Ve Orman Ürünleri Teslimi [10/10]",
+    "percent": 100,
+    "ratio": "10/10"
+  },
+  {
+    "taxTypeCode": "823",
+    "taxName": "Yük Taşımacılığı Hizmeti",
+    "name": "823 - Yük Taşımacılığı Hizmeti [10/10]",
+    "percent": 100,
+    "ratio": "10/10"
+  },
+  {
+    "taxTypeCode": "824",
+    "taxName": "Ticari Reklam Hizmetleri",
+    "name": "824 - Ticari Reklam Hizmetleri [10/10]",
+    "percent": 100,
+    "ratio": "10/10"
+  },
+  {
+    "taxTypeCode": "825",
+    "taxName": "Demir-Çelik Ürünlerinin Teslimi",
+    "name": "825 - Demir-Çelik Ürünlerinin Teslimi [10/10]",
+    "percent": 100,
+    "ratio": "10/10"
+  }
+]
